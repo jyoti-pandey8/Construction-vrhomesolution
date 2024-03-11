@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.vs-menu-wrapper .mobile-logo {
+    background-color:#010f30 !important;
+}
+/* img:not([draggable]) {
+    max-width: 70% !important;
+    height: auto !important;
+} */
+.footer-widget img{
+    max-width: 70% !important;
+    height: auto !important;
+}
+.preloader-inner img {
+    display: block !important;
+    margin: 0 auto 25px auto !important;
+    max-width: 20% !important;
+}
+@media only screen and (max-width: 600px){
+    
+    .preloader-inner img {
+        display: block !important;
+        margin: 0 auto 25px auto !important;
+        max-width: 80% !important;
+     
+}
+/* .vs-menu-wrapper .mobile-logo {
+    padding-bottom: 30px !important;
+    padding-top: 40px !important;
+    display: block !important;
+    text-align: center !important;
+    background-color: #010f30 !important;
+} */
+}
